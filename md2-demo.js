@@ -19,7 +19,7 @@ let hotdogDufflebag = hamburgerBackpack.splice(2 ,3)
 
 let itemCount = hamburgerBackpack.length
 console.log(itemCount)
-//console.log("hamburgerBackpack after splice", hamburgerBackpack)
+// console.log("hamburgerBackpack after splice", hamburgerBackpack)
 
 // console.log(hamburgerBackpack[0])
 
